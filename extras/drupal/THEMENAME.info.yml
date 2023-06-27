@@ -1,8 +1,8 @@
-name: Drupal 8 Starter
+name: Drupal 8, 9 & 10 Starter
 type: theme
-description: 'A default Drupal 8.x core basetheme configured with Blendid'
-core: 8.x
-base theme: stable
+description: 'A default Drupal 8.x core base theme configured with Blendid'
+core_version_requirement: ^8.8 || ^9 || ^10
+base theme: stark
 
 libraries:
   - THEMENAME/global-styling
